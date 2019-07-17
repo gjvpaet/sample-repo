@@ -1,1 +1,1 @@
-Sample text for git test
+Sample text for git test training
